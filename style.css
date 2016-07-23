@@ -1,0 +1,11 @@
+table, th, tr, td { 
+	border : 1px solid black;
+}
+
+input, textarea {
+	margin-left: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 90%;
+	height: 15px;
+}
